@@ -30,7 +30,8 @@
   
 ###  Projeto em destaque
 
-🔗 [Super Trunfo - Celulares](https://rafaelluizpilonetto.github.io/Super-Trunfo/)
+🔗 [Super Trunfo - Celulares](https://rafaelluizpilonetto.github.io/Super-Trunfo/)  somente HTML e CSS
+
 
 
 
