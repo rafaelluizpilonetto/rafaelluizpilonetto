@@ -10,10 +10,10 @@
 
 ###  Habilidades
 
-* **Linguagens:**
-  `Python (básico)` | `HTML e CSS (básico+)`
+* **Linguagens P:**
+  `Python (básico)` | `HTML e CSS (básico+)`  | 
 * **Estudando atualmente:**
-  `TypeScript` | `C++`
+  `TypeScript` | `JavaScript` | `Node Js`
 
 
 
