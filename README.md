@@ -20,7 +20,7 @@
 ###  Experiência
 
 *  **Menor Aprendiz** na fábrica *Latreille Jeans* — 1 ano e meio
-*  **Estagiário** na empresa *CISS* — inicio 14/07/2025
+*  **Analista De Qualidade De Software** na empresa *CISS* — inicio 14/07/2025 
 
 
 ###  Cursos
