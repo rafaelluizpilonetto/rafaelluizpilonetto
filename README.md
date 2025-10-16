@@ -32,7 +32,7 @@
 
 🔗 [Super Trunfo - Celulares](https://rafaelluizpilonetto.github.io/Super-Trunfo/)  somente HTML e CSS
 
-[Inscrição de cursos]( https://github.com/rafaelluizpilonetto/aaaaa.git) HTML CSS e NODE.JS
+🔗 [Inscrição de cursos]( https://github.com/rafaelluizpilonetto/aaaaa.git) HTML CSS e NODE.JS
 
 
 
