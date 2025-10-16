@@ -11,9 +11,9 @@
 ###  Habilidades
 
 * **Linguagens P:**
-  `Python (básico)` | `HTML e CSS (básico+)`  | 
+  `Python (básico)` | `HTML e CSS em aprendizado`  | 
 * **Estudando atualmente:**
-  `TypeScript` | `JavaScript` | `Node Js`
+ `JavaScript` `Angular`
 
 
 
